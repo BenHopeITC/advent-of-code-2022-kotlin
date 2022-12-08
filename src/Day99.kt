@@ -3,7 +3,7 @@ fun main() {
     val day = "Day99"
 
     fun part1(input: List<String>): Int {
-        return 2
+        return 1
     }
 
     fun part2(input: List<String>): Int {
